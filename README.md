@@ -3,7 +3,7 @@
 13:06 uzunluğunda, 1080p **60 fps**, Türkçe ve İngilizce seslendirmeli, altyazılı belgesel.
 
 ## Videolar
-**Releases** bölümünden indir:
+`video/` klasöründe (Git LFS ile; GitHub sayfasında dosyaya tıklayıp **Download** de):
 - `1453_Istanbulun_Fethi_TR.mp4`: Türkçe, altyazılı
 - `1453_Fall_of_Constantinople_EN.mp4`: İngilizce, altyazılı
 
