@@ -1,0 +1,2086 @@
+{
+ "fps": 60,
+ "chapters": [
+  {
+   "id": "c00",
+   "idx": 0,
+   "start": 0.0,
+   "dur": 48,
+   "title_tr": "1453",
+   "title_en": "1453",
+   "shots": [
+    {
+     "id": "c00a_0",
+     "img": "c00a",
+     "part": 0,
+     "motion": "drone",
+     "start": 0.0,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c00a_1",
+     "img": "c00a",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 8.0,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c00b_0",
+     "img": "c00b",
+     "part": 0,
+     "motion": "dolly_in",
+     "start": 16.0,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c00b_1",
+     "img": "c00b",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 24.0,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c00c_0",
+     "img": "c00c",
+     "part": 0,
+     "motion": "crane_up",
+     "start": 32.0,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c00c_1",
+     "img": "c00c",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 40.0,
+     "dur": 8.0,
+     "render_dur": 8.75
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c00_0",
+      "start": 3.0,
+      "dur": 5.2,
+      "text": "Yıl bin dört yüz elli üç. Bahar sabahı, Boğaz'ın üzerinde sis var."
+     },
+     {
+      "key": "c00_1",
+      "start": 10.4,
+      "dur": 6.9,
+      "text": "Sisin ardında, bin yılı aşkın süredir ayakta duran bir şehir uyanıyor: Konstantinopolis."
+     },
+     {
+      "key": "c00_2",
+      "start": 19.5,
+      "dur": 7.35,
+      "text": "Elli üç gün sonra bu şehir artık eskisi gibi olmayacak. Ve dünya tarihi yeni bir sayfa açacak."
+     },
+     {
+      "key": "c00_x0",
+      "start": 29.05,
+      "dur": 5.9,
+      "text": "Bu, dünyanın en güçlü surlarına karşı, genç bir sultanın hikâyesi."
+     }
+    ],
+    "en": [
+     {
+      "key": "c00_0",
+      "start": 3.0,
+      "dur": 7.0,
+      "text": "The year is fourteen fifty-three. A spring morning, and mist lies over the Bosphorus."
+     },
+     {
+      "key": "c00_1",
+      "start": 12.2,
+      "dur": 7.8,
+      "text": "Behind the mist, a city that has stood for more than a thousand years is waking: Constantinople."
+     },
+     {
+      "key": "c00_2",
+      "start": 22.2,
+      "dur": 7.5,
+      "text": "In fifty-three days, this city will never be the same. And world history will turn a new page."
+     },
+     {
+      "key": "c00_x0",
+      "start": 31.9,
+      "dur": 6.75,
+      "text": "This is the story of a young sultan against the strongest walls in the world."
+     }
+    ]
+   },
+   "battle": false,
+   "embers": false,
+   "booms": []
+  },
+  {
+   "id": "c01",
+   "idx": 1,
+   "start": 48.0,
+   "dur": 60.4,
+   "title_tr": "Bizans'ın Son Kalesi",
+   "title_en": "The Last Fortress of Byzantium",
+   "shots": [
+    {
+     "id": "c01a_0",
+     "img": "c01a",
+     "part": 0,
+     "motion": "dolly_out",
+     "start": 48.0,
+     "dur": 7.55,
+     "render_dur": 8.3
+    },
+    {
+     "id": "c01a_1",
+     "img": "c01a",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 55.55,
+     "dur": 7.55,
+     "render_dur": 8.3
+    },
+    {
+     "id": "c01b_0",
+     "img": "c01b",
+     "part": 0,
+     "motion": "crane_down",
+     "start": 63.1,
+     "dur": 7.55,
+     "render_dur": 8.3
+    },
+    {
+     "id": "c01b_1",
+     "img": "c01b",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 70.65,
+     "dur": 7.55,
+     "render_dur": 8.3
+    },
+    {
+     "id": "c01c_0",
+     "img": "c01c",
+     "part": 0,
+     "motion": "truck_left",
+     "start": 78.2,
+     "dur": 7.55,
+     "render_dur": 8.3
+    },
+    {
+     "id": "c01c_1",
+     "img": "c01c",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 85.75,
+     "dur": 7.55,
+     "render_dur": 8.3
+    },
+    {
+     "id": "c01d_0",
+     "img": "c01d",
+     "part": 0,
+     "motion": "orbit_r",
+     "start": 93.3,
+     "dur": 7.55,
+     "render_dur": 8.3
+    },
+    {
+     "id": "c01d_1",
+     "img": "c01d",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 100.85,
+     "dur": 7.55,
+     "render_dur": 8.3
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c01_0",
+      "start": 51.0,
+      "dur": 6.9,
+      "text": "Konstantinopolis, Roma İmparatoru Konstantin tarafından üç yüz otuz yılında başkent yapıldı."
+     },
+     {
+      "key": "c01_1",
+      "start": 58.7,
+      "dur": 5.85,
+      "text": "Yüzyıllar boyunca dünyanın en zengin, en kalabalık şehirlerinden biri oldu."
+     },
+     {
+      "key": "c01_x0",
+      "start": 65.35,
+      "dur": 6.9,
+      "text": "Doğu ile Batı'nın, Asya ile Avrupa'nın buluştuğu bu noktada, ticaret yolları kesişiyordu."
+     },
+     {
+      "key": "c01_2",
+      "start": 73.05,
+      "dur": 7.85,
+      "text": "Ama bin dört yüz elli üçe gelindiğinde, koca imparatorluktan geriye neredeyse yalnızca şehrin kendisi kalmıştı."
+     },
+     {
+      "key": "c01_3",
+      "start": 81.7,
+      "dur": 8.6,
+      "text": "Onu koruyan şey ise efsanevi kara surlarıydı. Üç katlı savunma hattı, binlerce yıl düşmanlarını geri püskürtmüştü."
+     },
+     {
+      "key": "c01_4",
+      "start": 91.1,
+      "dur": 6.75,
+      "text": "Haliç'in ağzına ise devasa bir zincir gerilmişti. Hiçbir gemi içeri giremeyecekti."
+     },
+     {
+      "key": "c01_x1",
+      "start": 98.65,
+      "dur": 7.25,
+      "text": "Şehir, bin yıl boyunca defalarca kuşatıldı. Ama surlar hiçbir zaman zorla aşılamamıştı."
+     }
+    ],
+    "en": [
+     {
+      "key": "c01_0",
+      "start": 51.0,
+      "dur": 6.5,
+      "text": "Constantinople was made a capital by the Roman Emperor Constantine in the year three hundred and thirty."
+     },
+     {
+      "key": "c01_1",
+      "start": 58.217,
+      "dur": 5.65,
+      "text": "For centuries it was one of the richest and most populous cities in the world."
+     },
+     {
+      "key": "c01_x0",
+      "start": 64.583,
+      "dur": 6.65,
+      "text": "Here, where East met West and Asia met Europe, the great trade routes crossed."
+     },
+     {
+      "key": "c01_2",
+      "start": 71.95,
+      "dur": 6.95,
+      "text": "But by fourteen fifty-three, almost nothing remained of the great empire except the city itself."
+     },
+     {
+      "key": "c01_3",
+      "start": 79.617,
+      "dur": 8.6,
+      "text": "What protected it were the legendary land walls. A triple line of defense that had turned back enemies for a thousand years."
+     },
+     {
+      "key": "c01_4",
+      "start": 88.933,
+      "dur": 8.45,
+      "text": "And across the mouth of the Golden Horn, a massive chain was stretched. No ship would get inside."
+     },
+     {
+      "key": "c01_x1",
+      "start": 98.1,
+      "dur": 7.8,
+      "text": "The city had been besieged again and again for a thousand years. But the walls had never been taken by storm."
+     }
+    ]
+   },
+   "battle": false,
+   "embers": false,
+   "booms": []
+  },
+  {
+   "id": "c02",
+   "idx": 2,
+   "start": 108.4,
+   "dur": 60,
+   "title_tr": "Genç Sultan",
+   "title_en": "The Young Sultan",
+   "shots": [
+    {
+     "id": "c02a_0",
+     "img": "c02a",
+     "part": 0,
+     "motion": "truck_right",
+     "start": 108.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c02a_1",
+     "img": "c02a",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 115.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c02b_0",
+     "img": "c02b",
+     "part": 0,
+     "motion": "orbit_l",
+     "start": 123.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c02b_1",
+     "img": "c02b",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 130.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c02c_0",
+     "img": "c02c",
+     "part": 0,
+     "motion": "drone",
+     "start": 138.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c02c_1",
+     "img": "c02c",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 145.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c02d_0",
+     "img": "c02d",
+     "part": 0,
+     "motion": "dolly_in",
+     "start": 153.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c02d_1",
+     "img": "c02d",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 160.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c02_0",
+      "start": 111.4,
+      "dur": 5.6,
+      "text": "Edirne'de, genç bir sultan bu şehrin hayalini kuruyordu: İkinci Mehmed."
+     },
+     {
+      "key": "c02_1",
+      "start": 119.2,
+      "dur": 5.05,
+      "text": "Bin dört yüz elli birde tahta çıktığında henüz on dokuz yaşındaydı."
+     },
+     {
+      "key": "c02_x0",
+      "start": 126.45,
+      "dur": 6.5,
+      "text": "Babası İkinci Murad'dan büyük bir devlet devralmıştı. Ama onun gözü daha büyüğündeydi."
+     },
+     {
+      "key": "c02_2",
+      "start": 135.15,
+      "dur": 6.1,
+      "text": "Birçok dil biliyor, haritalar inceliyor, mühendislik ve savaş sanatı üzerine çalışıyordu."
+     },
+     {
+      "key": "c02_3",
+      "start": 143.45,
+      "dur": 7.75,
+      "text": "Geceler boyunca surların planlarını çizdiği anlatılır. Tek bir hedefi vardı: Konstantinopolis'i almak."
+     },
+     {
+      "key": "c02_x1",
+      "start": 153.4,
+      "dur": 6.5,
+      "text": "Avrupa'nın sarayları bu genç hükümdarı ciddiye almadı. Çok yakında pişman olacaklardı."
+     }
+    ],
+    "en": [
+     {
+      "key": "c02_0",
+      "start": 111.4,
+      "dur": 5.3,
+      "text": "In Edirne, a young sultan dreamed of this city: Mehmed the Second."
+     },
+     {
+      "key": "c02_1",
+      "start": 118.9,
+      "dur": 6.1,
+      "text": "When he took the throne in fourteen fifty-one, he was only nineteen years old."
+     },
+     {
+      "key": "c02_x0",
+      "start": 127.2,
+      "dur": 7.2,
+      "text": "He had inherited a great state from his father, Murad the Second. But his eyes were set on something greater."
+     },
+     {
+      "key": "c02_2",
+      "start": 136.6,
+      "dur": 6.5,
+      "text": "He spoke several languages, studied maps, and devoted himself to engineering and the art of war."
+     },
+     {
+      "key": "c02_3",
+      "start": 145.3,
+      "dur": 9.4,
+      "text": "It is said he spent nights drawing plans of the walls. He had a single goal: to take Constantinople."
+     },
+     {
+      "key": "c02_x1",
+      "start": 156.9,
+      "dur": 7.1,
+      "text": "The courts of Europe did not take this young ruler seriously. Very soon, they would regret it."
+     }
+    ]
+   },
+   "battle": false,
+   "embers": false,
+   "booms": []
+  },
+  {
+   "id": "c03",
+   "idx": 3,
+   "start": 168.4,
+   "dur": 56,
+   "title_tr": "Boğazkesen",
+   "title_en": "The Throat Cutter",
+   "shots": [
+    {
+     "id": "c03a_0",
+     "img": "c03a",
+     "part": 0,
+     "motion": "crane_up",
+     "start": 168.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c03a_1",
+     "img": "c03a",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 175.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c03b_0",
+     "img": "c03b",
+     "part": 0,
+     "motion": "dolly_out",
+     "start": 182.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c03b_1",
+     "img": "c03b",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 189.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c03c_0",
+     "img": "c03c",
+     "part": 0,
+     "motion": "crane_down",
+     "start": 196.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c03c_1",
+     "img": "c03c",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 203.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c03d_0",
+     "img": "c03d",
+     "part": 0,
+     "motion": "truck_left",
+     "start": 210.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c03d_1",
+     "img": "c03d",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 217.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c03_0",
+      "start": 171.4,
+      "dur": 3.5,
+      "text": "İlk hamle bin dört yüz elli iki baharında geldi."
+     },
+     {
+      "key": "c03_1",
+      "start": 177.07,
+      "dur": 9.0,
+      "text": "Boğaz'ın en dar noktasında, Anadolu Hisarı'nın tam karşısında, devasa bir kale yükselmeye başladı: Rumeli Hisarı."
+     },
+     {
+      "key": "c03_2",
+      "start": 188.24,
+      "dur": 5.75,
+      "text": "Binlerce işçi gece gündüz çalıştı. Kale yaklaşık dört buçuk ayda tamamlandı."
+     },
+     {
+      "key": "c03_3",
+      "start": 196.16,
+      "dur": 7.05,
+      "text": "Artık Karadeniz'den şehre yardım gelmesi çok zordu. Halk ona bir isim verdi: Boğazkesen."
+     },
+     {
+      "key": "c03_x0",
+      "start": 205.38,
+      "dur": 7.25,
+      "text": "Boğaz'dan geçen gemiler artık durmak ve izin almak zorundaydı. Bu bir meydan okumaydı."
+     },
+     {
+      "key": "c03_x1",
+      "start": 214.8,
+      "dur": 7.1,
+      "text": "Konstantinopolis'te imparator, Batı'ya mektuplar yazarak yardım istedi. Ama gelen yardım çok azdı."
+     }
+    ],
+    "en": [
+     {
+      "key": "c03_0",
+      "start": 171.4,
+      "dur": 4.65,
+      "text": "The first move came in the spring of fourteen fifty-two."
+     },
+     {
+      "key": "c03_1",
+      "start": 177.21,
+      "dur": 10.15,
+      "text": "At the narrowest point of the Bosphorus, directly across from the Anatolian Fortress, a huge castle began to rise: Rumeli Hisarı."
+     },
+     {
+      "key": "c03_2",
+      "start": 188.52,
+      "dur": 8.7,
+      "text": "Thousands of workers labored day and night. The fortress was finished in about four and a half months."
+     },
+     {
+      "key": "c03_3",
+      "start": 198.38,
+      "dur": 7.55,
+      "text": "Now help from the Black Sea could hardly reach the city. People gave it a name: the Throat Cutter."
+     },
+     {
+      "key": "c03_x0",
+      "start": 207.09,
+      "dur": 7.15,
+      "text": "Ships passing through the Bosphorus now had to stop and ask permission. It was a challenge."
+     },
+     {
+      "key": "c03_x1",
+      "start": 215.4,
+      "dur": 6.5,
+      "text": "In Constantinople, the emperor wrote letters to the West, begging for help. But very little came."
+     }
+    ]
+   },
+   "battle": false,
+   "embers": true,
+   "booms": []
+  },
+  {
+   "id": "c04",
+   "idx": 4,
+   "start": 224.4,
+   "dur": 60,
+   "title_tr": "Dev Toplar",
+   "title_en": "The Great Bombards",
+   "shots": [
+    {
+     "id": "c04a_0",
+     "img": "c04a",
+     "part": 0,
+     "motion": "orbit_r",
+     "start": 224.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c04a_1",
+     "img": "c04a",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 231.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c04b_0",
+     "img": "c04b",
+     "part": 0,
+     "motion": "truck_right",
+     "start": 239.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c04b_1",
+     "img": "c04b",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 246.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c04c_0",
+     "img": "c04c",
+     "part": 0,
+     "motion": "orbit_l",
+     "start": 254.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c04c_1",
+     "img": "c04c",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 261.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c04d_0",
+     "img": "c04d",
+     "part": 0,
+     "motion": "drone",
+     "start": 269.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c04d_1",
+     "img": "c04d",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 276.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c04_0",
+      "start": 227.4,
+      "dur": 4.3,
+      "text": "Sultan'ın en büyük silahı ise henüz görülmemiş bir şeydi."
+     },
+     {
+      "key": "c04_1",
+      "start": 233.9,
+      "dur": 5.35,
+      "text": "Urban adında bir top dökümcüsü, Edirne'de devasa toplar döktü."
+     },
+     {
+      "key": "c04_x0",
+      "start": 241.45,
+      "dur": 6.85,
+      "text": "Urban önce hizmetlerini Bizans'a sunmuştu. Ama imparator ona istediği ücreti ödeyemedi."
+     },
+     {
+      "key": "c04_2",
+      "start": 250.5,
+      "dur": 8.9,
+      "text": "En büyüğü yüzlerce kiloluk taş gülleler fırlatabiliyordu. Onu taşımak için düzinelerce öküz ve yüzlerce adam gerekti."
+     },
+     {
+      "key": "c04_3",
+      "start": 261.6,
+      "dur": 7.45,
+      "text": "Günde yalnızca birkaç kez ateşlenebiliyordu. Ama her atışta yer sarsılıyor, surlar titriyordu."
+     },
+     {
+      "key": "c04_x1",
+      "start": 271.25,
+      "dur": 4.75,
+      "text": "Bu toplar, savaşın kurallarını sonsuza dek değiştirecekti."
+     }
+    ],
+    "en": [
+     {
+      "key": "c04_0",
+      "start": 227.4,
+      "dur": 4.75,
+      "text": "But the Sultan's greatest weapon was something never seen before."
+     },
+     {
+      "key": "c04_1",
+      "start": 234.35,
+      "dur": 5.3,
+      "text": "A cannon founder named Urban cast enormous guns in Edirne."
+     },
+     {
+      "key": "c04_x0",
+      "start": 241.85,
+      "dur": 6.5,
+      "text": "Urban had first offered his services to Byzantium. But the emperor could not pay what he asked."
+     },
+     {
+      "key": "c04_2",
+      "start": 250.55,
+      "dur": 8.9,
+      "text": "The largest could hurl stone balls weighing hundreds of kilograms. Dozens of oxen and hundreds of men were needed to move it."
+     },
+     {
+      "key": "c04_3",
+      "start": 261.65,
+      "dur": 8.95,
+      "text": "It could fire only a few times a day. But with every shot the ground shook and the walls trembled."
+     },
+     {
+      "key": "c04_x1",
+      "start": 272.8,
+      "dur": 4.0,
+      "text": "These guns would change the rules of war forever."
+     }
+    ]
+   },
+   "battle": true,
+   "embers": true,
+   "booms": [
+    278.4
+   ]
+  },
+  {
+   "id": "c05",
+   "idx": 5,
+   "start": 284.4,
+   "dur": 64,
+   "title_tr": "Kuşatma Başlıyor",
+   "title_en": "The Siege Begins",
+   "shots": [
+    {
+     "id": "c05a_0",
+     "img": "c05a",
+     "part": 0,
+     "motion": "dolly_in",
+     "start": 284.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c05a_1",
+     "img": "c05a",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 292.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c05b_0",
+     "img": "c05b",
+     "part": 0,
+     "motion": "crane_up",
+     "start": 300.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c05b_1",
+     "img": "c05b",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 308.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c05c_0",
+     "img": "c05c",
+     "part": 0,
+     "motion": "dolly_out",
+     "start": 316.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c05c_1",
+     "img": "c05c",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 324.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c05d_0",
+     "img": "c05d",
+     "part": 0,
+     "motion": "crane_down",
+     "start": 332.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c05d_1",
+     "img": "c05d",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 340.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c05_0",
+      "start": 287.4,
+      "dur": 5.15,
+      "text": "Altı Nisan bin dört yüz elli üç. Osmanlı ordusu surların önünde."
+     },
+     {
+      "key": "c05_1",
+      "start": 294.75,
+      "dur": 5.05,
+      "text": "Tahminlere göre seksen binden fazla asker, ufka kadar uzanan çadırlar."
+     },
+     {
+      "key": "c05_2",
+      "start": 302.0,
+      "dur": 4.05,
+      "text": "Karşılarında ise yalnızca yedi bin kadar savunucu vardı."
+     },
+     {
+      "key": "c05_x0",
+      "start": 308.25,
+      "dur": 6.1,
+      "text": "Şehrin kara surları boyunca topçular, okçular ve piyadeler mevzilerini aldı."
+     },
+     {
+      "key": "c05_3",
+      "start": 316.55,
+      "dur": 8.65,
+      "text": "Onları son Bizans İmparatoru, On Birinci Konstantin yönetiyordu. Yanında Cenevizli komutan Giustiniani vardı."
+     },
+     {
+      "key": "c05_4",
+      "start": 327.4,
+      "dur": 2.8,
+      "text": "Ve toplar konuşmaya başladı."
+     }
+    ],
+    "en": [
+     {
+      "key": "c05_0",
+      "start": 287.4,
+      "dur": 6.0,
+      "text": "April sixth, fourteen fifty-three. The Ottoman army stands before the walls."
+     },
+     {
+      "key": "c05_1",
+      "start": 295.6,
+      "dur": 6.55,
+      "text": "By most estimates more than eighty thousand soldiers, and tents stretching to the horizon."
+     },
+     {
+      "key": "c05_2",
+      "start": 304.35,
+      "dur": 4.65,
+      "text": "Facing them were only about seven thousand defenders."
+     },
+     {
+      "key": "c05_x0",
+      "start": 311.2,
+      "dur": 6.1,
+      "text": "Along the land walls, gunners, archers and infantry took up their positions."
+     },
+     {
+      "key": "c05_3",
+      "start": 319.5,
+      "dur": 8.6,
+      "text": "They were led by the last Byzantine Emperor, Constantine the Eleventh. At his side stood the Genoese commander Giustiniani."
+     },
+     {
+      "key": "c05_4",
+      "start": 330.3,
+      "dur": 2.95,
+      "text": "And the cannons began to speak."
+     }
+    ]
+   },
+   "battle": true,
+   "embers": false,
+   "booms": [
+    340.9,
+    342.8,
+    345.0,
+    346.9
+   ]
+  },
+  {
+   "id": "c06",
+   "idx": 6,
+   "start": 348.4,
+   "dur": 60,
+   "title_tr": "Ateş ve Deniz",
+   "title_en": "Fire and Sea",
+   "shots": [
+    {
+     "id": "c06a_0",
+     "img": "c06a",
+     "part": 0,
+     "motion": "truck_left",
+     "start": 348.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c06a_1",
+     "img": "c06a",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 355.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c06b_0",
+     "img": "c06b",
+     "part": 0,
+     "motion": "orbit_r",
+     "start": 363.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c06b_1",
+     "img": "c06b",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 370.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c06c_0",
+     "img": "c06c",
+     "part": 0,
+     "motion": "truck_right",
+     "start": 378.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c06c_1",
+     "img": "c06c",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 385.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c06d_0",
+     "img": "c06d",
+     "part": 0,
+     "motion": "orbit_l",
+     "start": 393.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c06d_1",
+     "img": "c06d",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 400.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c06_0",
+      "start": 351.4,
+      "dur": 6.05,
+      "text": "Haftalar boyunca bombardıman hiç durmadı. Surlarda büyük gedikler açıldı."
+     },
+     {
+      "key": "c06_1",
+      "start": 359.65,
+      "dur": 6.7,
+      "text": "Ama savunucular her gece yıkılan yerleri toprak, tahta ve taşla yeniden kapattı."
+     },
+     {
+      "key": "c06_x0",
+      "start": 368.55,
+      "dur": 6.65,
+      "text": "Yorgun savunucular uyumadan çalışıyordu. Her sabah Osmanlı topçuları yeniden başlıyordu."
+     },
+     {
+      "key": "c06_2",
+      "start": 377.4,
+      "dur": 8.25,
+      "text": "Yirmi Nisan'da denizde büyük bir çarpışma oldu. Dört Hristiyan gemisi Osmanlı donanmasını yararak Haliç'e ulaştı."
+     },
+     {
+      "key": "c06_3",
+      "start": 387.85,
+      "dur": 4.8,
+      "text": "Sultan öfkeliydi. Yeni ve çok cesur bir plana ihtiyacı vardı."
+     },
+     {
+      "key": "c06_x1",
+      "start": 394.85,
+      "dur": 6.2,
+      "text": "Bu küçük zafer şehirde büyük bir umut yarattı. Ama bu umut uzun sürmeyecekti."
+     }
+    ],
+    "en": [
+     {
+      "key": "c06_0",
+      "start": 351.4,
+      "dur": 6.05,
+      "text": "For weeks the bombardment never stopped. Great breaches opened in the walls."
+     },
+     {
+      "key": "c06_1",
+      "start": 359.65,
+      "dur": 7.25,
+      "text": "But every night the defenders sealed the ruined sections again with earth, timber and stone."
+     },
+     {
+      "key": "c06_x0",
+      "start": 369.1,
+      "dur": 6.5,
+      "text": "The exhausted defenders worked without sleep. And every morning, the Ottoman guns began again."
+     },
+     {
+      "key": "c06_2",
+      "start": 377.8,
+      "dur": 9.6,
+      "text": "On April twentieth a great battle broke out at sea. Four Christian ships fought through the Ottoman fleet and reached the Golden Horn."
+     },
+     {
+      "key": "c06_3",
+      "start": 389.6,
+      "dur": 5.1,
+      "text": "The Sultan was furious. He needed a new and very bold plan."
+     },
+     {
+      "key": "c06_x1",
+      "start": 396.9,
+      "dur": 6.85,
+      "text": "This small victory brought great hope to the city. But that hope would not last long."
+     }
+    ]
+   },
+   "battle": true,
+   "embers": true,
+   "booms": [
+    351.9,
+    359.4,
+    367.9,
+    378.4,
+    389.4
+   ]
+  },
+  {
+   "id": "c07",
+   "idx": 7,
+   "start": 408.4,
+   "dur": 66,
+   "title_tr": "Gemiler Karadan",
+   "title_en": "Ships Over Land",
+   "shots": [
+    {
+     "id": "c07a_0",
+     "img": "c07a",
+     "part": 0,
+     "motion": "drone",
+     "start": 408.4,
+     "dur": 8.25,
+     "render_dur": 9.0
+    },
+    {
+     "id": "c07a_1",
+     "img": "c07a",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 416.65,
+     "dur": 8.25,
+     "render_dur": 9.0
+    },
+    {
+     "id": "c07b_0",
+     "img": "c07b",
+     "part": 0,
+     "motion": "dolly_in",
+     "start": 424.9,
+     "dur": 8.25,
+     "render_dur": 9.0
+    },
+    {
+     "id": "c07b_1",
+     "img": "c07b",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 433.15,
+     "dur": 8.25,
+     "render_dur": 9.0
+    },
+    {
+     "id": "c07c_0",
+     "img": "c07c",
+     "part": 0,
+     "motion": "crane_up",
+     "start": 441.4,
+     "dur": 8.25,
+     "render_dur": 9.0
+    },
+    {
+     "id": "c07c_1",
+     "img": "c07c",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 449.65,
+     "dur": 8.25,
+     "render_dur": 9.0
+    },
+    {
+     "id": "c07d_0",
+     "img": "c07d",
+     "part": 0,
+     "motion": "dolly_out",
+     "start": 457.9,
+     "dur": 8.25,
+     "render_dur": 9.0
+    },
+    {
+     "id": "c07d_1",
+     "img": "c07d",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 466.15,
+     "dur": 8.25,
+     "render_dur": 9.0
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c07_0",
+      "start": 411.4,
+      "dur": 5.65,
+      "text": "Yirmi iki Nisan sabahı, Haliç'teki savunucular gözlerine inanamadı."
+     },
+     {
+      "key": "c07_1",
+      "start": 419.25,
+      "dur": 4.15,
+      "text": "Osmanlı gemileri tepelerin üzerinden kayarak geliyordu."
+     },
+     {
+      "key": "c07_x0",
+      "start": 425.6,
+      "dur": 4.3,
+      "text": "Bu, tarihin en cesur askeri manevralarından biriydi."
+     },
+     {
+      "key": "c07_2",
+      "start": 432.1,
+      "dur": 9.75,
+      "text": "Gece boyunca yağlanmış kızaklar üzerinde, öküzler ve askerler tarafından çekilen gemiler, Galata'nın arkasından karadan Haliç'e indirilmişti."
+     },
+     {
+      "key": "c07_3",
+      "start": 444.05,
+      "dur": 4.8,
+      "text": "Zincir aşılmıştı. Şehir artık iki yandan kuşatılmıştı."
+     },
+     {
+      "key": "c07_x1",
+      "start": 451.05,
+      "dur": 8.4,
+      "text": "Savunucular artık Haliç tarafındaki deniz surlarını da korumak zorundaydı. Zaten az olan askerler daha da dağıldı."
+     }
+    ],
+    "en": [
+     {
+      "key": "c07_0",
+      "start": 411.4,
+      "dur": 7.85,
+      "text": "On the morning of April twenty-second, the defenders in the Golden Horn could not believe their eyes."
+     },
+     {
+      "key": "c07_1",
+      "start": 421.45,
+      "dur": 3.85,
+      "text": "Ottoman ships were sliding down over the hills."
+     },
+     {
+      "key": "c07_x0",
+      "start": 427.5,
+      "dur": 5.25,
+      "text": "It was one of the boldest military maneuvers in history."
+     },
+     {
+      "key": "c07_2",
+      "start": 434.95,
+      "dur": 12.05,
+      "text": "Through the night, on greased wooden rollers, pulled by oxen and soldiers, the ships had been carried over land behind Galata into the Golden Horn."
+     },
+     {
+      "key": "c07_3",
+      "start": 449.2,
+      "dur": 5.45,
+      "text": "The chain had been bypassed. Now the city was besieged from two sides."
+     },
+     {
+      "key": "c07_x1",
+      "start": 456.85,
+      "dur": 8.15,
+      "text": "The defenders now had to guard the sea walls along the Golden Horn too. Their already few soldiers were stretched even thinner."
+     }
+    ]
+   },
+   "battle": false,
+   "embers": false,
+   "booms": []
+  },
+  {
+   "id": "c08",
+   "idx": 8,
+   "start": 474.4,
+   "dur": 56,
+   "title_tr": "Toprağın Altında",
+   "title_en": "Beneath the Earth",
+   "shots": [
+    {
+     "id": "c08a_0",
+     "img": "c08a",
+     "part": 0,
+     "motion": "crane_down",
+     "start": 474.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c08a_1",
+     "img": "c08a",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 481.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c08b_0",
+     "img": "c08b",
+     "part": 0,
+     "motion": "truck_left",
+     "start": 488.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c08b_1",
+     "img": "c08b",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 495.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c08c_0",
+     "img": "c08c",
+     "part": 0,
+     "motion": "orbit_r",
+     "start": 502.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c08c_1",
+     "img": "c08c",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 509.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c08d_0",
+     "img": "c08d",
+     "part": 0,
+     "motion": "truck_right",
+     "start": 516.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c08d_1",
+     "img": "c08d",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 523.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c08_0",
+      "start": 477.4,
+      "dur": 6.6,
+      "text": "Kuşatma toprağın altında da sürüyordu. Osmanlı lağımcıları surların altına tüneller kazdı."
+     },
+     {
+      "key": "c08_1",
+      "start": 486.2,
+      "dur": 5.85,
+      "text": "Savunucular karşı tüneller açtı. Karanlıkta, meşale ışığında çarpışmalar yaşandı."
+     },
+     {
+      "key": "c08_x0",
+      "start": 494.25,
+      "dur": 5.1,
+      "text": "Bazı tüneller bulunup su ile basıldı, bazıları ateşe verildi."
+     },
+     {
+      "key": "c08_2",
+      "start": 501.55,
+      "dur": 7.1,
+      "text": "Mayıs'ın sonlarına doğru gökyüzünde bir ay tutulması görüldü. Şehirde pek çok kişi bunu kötüye yordu."
+     },
+     {
+      "key": "c08_x1",
+      "start": 510.85,
+      "dur": 6.4,
+      "text": "Kuşatma yedinci haftasına girmişti. Her iki taraf da sonun yaklaştığını hissediyordu."
+     },
+     {
+      "key": "c08_x2",
+      "start": 519.45,
+      "dur": 3.4,
+      "text": "Sultan, son bir büyük hücum için emir verdi."
+     }
+    ],
+    "en": [
+     {
+      "key": "c08_0",
+      "start": 477.4,
+      "dur": 5.9,
+      "text": "The siege went on underground as well. Ottoman sappers dug tunnels beneath the walls."
+     },
+     {
+      "key": "c08_1",
+      "start": 485.5,
+      "dur": 6.0,
+      "text": "The defenders dug counter-tunnels. Battles were fought in the dark, by torchlight."
+     },
+     {
+      "key": "c08_x0",
+      "start": 493.7,
+      "dur": 4.55,
+      "text": "Some tunnels were found and flooded, others were set on fire."
+     },
+     {
+      "key": "c08_2",
+      "start": 500.45,
+      "dur": 6.85,
+      "text": "Late in May, a lunar eclipse was seen in the sky. Many in the city took it as an evil omen."
+     },
+     {
+      "key": "c08_x1",
+      "start": 509.5,
+      "dur": 6.3,
+      "text": "The siege had entered its seventh week. Both sides could feel the end approaching."
+     },
+     {
+      "key": "c08_x2",
+      "start": 518.0,
+      "dur": 4.95,
+      "text": "The Sultan gave the order for one last great assault."
+     }
+    ]
+   },
+   "battle": false,
+   "embers": false,
+   "booms": []
+  },
+  {
+   "id": "c09",
+   "idx": 9,
+   "start": 530.4,
+   "dur": 76,
+   "title_tr": "Son Hücum",
+   "title_en": "The Final Assault",
+   "shots": [
+    {
+     "id": "c09a_0",
+     "img": "c09a",
+     "part": 0,
+     "motion": "orbit_l",
+     "start": 530.4,
+     "dur": 7.6,
+     "render_dur": 8.35
+    },
+    {
+     "id": "c09a_1",
+     "img": "c09a",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 538.0,
+     "dur": 7.6,
+     "render_dur": 8.35
+    },
+    {
+     "id": "c09b_0",
+     "img": "c09b",
+     "part": 0,
+     "motion": "drone",
+     "start": 545.6,
+     "dur": 7.6,
+     "render_dur": 8.35
+    },
+    {
+     "id": "c09b_1",
+     "img": "c09b",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 553.2,
+     "dur": 7.6,
+     "render_dur": 8.35
+    },
+    {
+     "id": "c09c_0",
+     "img": "c09c",
+     "part": 0,
+     "motion": "dolly_in",
+     "start": 560.8,
+     "dur": 7.6,
+     "render_dur": 8.35
+    },
+    {
+     "id": "c09c_1",
+     "img": "c09c",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 568.4,
+     "dur": 7.6,
+     "render_dur": 8.35
+    },
+    {
+     "id": "c09d_0",
+     "img": "c09d",
+     "part": 0,
+     "motion": "crane_up",
+     "start": 576.0,
+     "dur": 7.6,
+     "render_dur": 8.35
+    },
+    {
+     "id": "c09d_1",
+     "img": "c09d",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 583.6,
+     "dur": 7.6,
+     "render_dur": 8.35
+    },
+    {
+     "id": "c09e_0",
+     "img": "c09e",
+     "part": 0,
+     "motion": "dolly_out",
+     "start": 591.2,
+     "dur": 7.6,
+     "render_dur": 8.35
+    },
+    {
+     "id": "c09e_1",
+     "img": "c09e",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 598.8,
+     "dur": 7.6,
+     "render_dur": 8.35
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c09_0",
+      "start": 533.4,
+      "dur": 8.4,
+      "text": "Yirmi dokuz Mayıs, şafaktan önce. Davullar, borazanlar ve binlerce ses aynı anda yükseldi."
+     },
+     {
+      "key": "c09_1",
+      "start": 544.0,
+      "dur": 7.05,
+      "text": "Hücum dalgalar halinde geldi. Önce ilk birlikler, sonra Anadolu askerleri surlara yüklendi."
+     },
+     {
+      "key": "c09_2",
+      "start": 553.25,
+      "dur": 6.7,
+      "text": "Savunucular direndi. Ama sonra Giustiniani ağır yaralandı ve geri çekildi. Savunma sarsıldı."
+     },
+     {
+      "key": "c09_x0",
+      "start": 562.15,
+      "dur": 4.35,
+      "text": "Saatler boyunca surlarda ölüm kalım mücadelesi sürdü."
+     },
+     {
+      "key": "c09_3",
+      "start": 568.7,
+      "dur": 4.75,
+      "text": "Tam o anda Sultan son kozunu oynadı: Yeniçeriler."
+     },
+     {
+      "key": "c09_4",
+      "start": 575.65,
+      "dur": 5.65,
+      "text": "Disiplinli, sessiz ve kararlı bir şekilde gediklere doğru ilerlediler."
+     }
+    ],
+    "en": [
+     {
+      "key": "c09_0",
+      "start": 533.4,
+      "dur": 6.45,
+      "text": "May twenty-ninth, before dawn. Drums, trumpets and thousands of voices rose at once."
+     },
+     {
+      "key": "c09_1",
+      "start": 542.05,
+      "dur": 8.35,
+      "text": "The assault came in waves. First the irregular troops, then the Anatolian soldiers threw themselves at the walls."
+     },
+     {
+      "key": "c09_2",
+      "start": 552.6,
+      "dur": 8.4,
+      "text": "The defenders held. But then Giustiniani was badly wounded and withdrew. The defense began to waver."
+     },
+     {
+      "key": "c09_x0",
+      "start": 563.2,
+      "dur": 4.85,
+      "text": "For hours, a struggle of life and death raged on the walls."
+     },
+     {
+      "key": "c09_3",
+      "start": 570.25,
+      "dur": 5.75,
+      "text": "At that very moment, the Sultan played his final card: the Janissaries."
+     },
+     {
+      "key": "c09_4",
+      "start": 578.2,
+      "dur": 5.35,
+      "text": "Disciplined, silent and determined, they advanced toward the breaches."
+     }
+    ]
+   },
+   "battle": true,
+   "embers": true,
+   "booms": [
+    536.4,
+    544.4,
+    552.9,
+    563.4,
+    574.4
+   ]
+  },
+  {
+   "id": "c10",
+   "idx": 10,
+   "start": 606.4,
+   "dur": 56,
+   "title_tr": "Ulubatlı Hasan",
+   "title_en": "Hasan of Ulubat",
+   "shots": [
+    {
+     "id": "c10a_0",
+     "img": "c10a",
+     "part": 0,
+     "motion": "crane_down",
+     "start": 606.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c10a_1",
+     "img": "c10a",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 613.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c10b_0",
+     "img": "c10b",
+     "part": 0,
+     "motion": "truck_left",
+     "start": 620.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c10b_1",
+     "img": "c10b",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 627.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c10c_0",
+     "img": "c10c",
+     "part": 0,
+     "motion": "orbit_r",
+     "start": 634.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c10c_1",
+     "img": "c10c",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 641.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c10d_0",
+     "img": "c10d",
+     "part": 0,
+     "motion": "truck_right",
+     "start": 648.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    },
+    {
+     "id": "c10d_1",
+     "img": "c10d",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 655.4,
+     "dur": 7.0,
+     "render_dur": 7.75
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c10_0",
+      "start": 609.4,
+      "dur": 6.45,
+      "text": "Bu kargaşanın ortasında, dev cüsseli bir yeniçeri surlara tırmandı: Ulubatlı Hasan."
+     },
+     {
+      "key": "c10_1",
+      "start": 618.05,
+      "dur": 4.7,
+      "text": "Oklar ve taşlar altında, sancağı burçlardan birine dikti."
+     },
+     {
+      "key": "c10_2",
+      "start": 624.95,
+      "dur": 8.75,
+      "text": "Anlatılara göre Hasan oracıkta şehit düştü. Ama sancak dalgalanıyordu, ve onu gören binlerce asker içeri aktı."
+     },
+     {
+      "key": "c10_x0",
+      "start": 635.9,
+      "dur": 6.0,
+      "text": "Kısa süre içinde surların üzerinde birçok sancak belirdi. Savunma çöküyordu."
+     }
+    ],
+    "en": [
+     {
+      "key": "c10_0",
+      "start": 609.4,
+      "dur": 7.75,
+      "text": "In the middle of the chaos, a giant Janissary climbed the walls: Hasan of Ulubat."
+     },
+     {
+      "key": "c10_1",
+      "start": 619.35,
+      "dur": 5.3,
+      "text": "Under arrows and stones, he planted the banner on one of the towers."
+     },
+     {
+      "key": "c10_2",
+      "start": 626.85,
+      "dur": 10.65,
+      "text": "According to the stories, Hasan fell there as a martyr. But the banner was flying, and thousands of soldiers who saw it poured inside."
+     },
+     {
+      "key": "c10_x0",
+      "start": 639.7,
+      "dur": 5.6,
+      "text": "Within moments, more banners appeared along the walls. The defense was collapsing."
+     }
+    ]
+   },
+   "battle": true,
+   "embers": true,
+   "booms": [
+    611.4
+   ]
+  },
+  {
+   "id": "c11",
+   "idx": 11,
+   "start": 662.4,
+   "dur": 64,
+   "title_tr": "Fatih",
+   "title_en": "The Conqueror",
+   "shots": [
+    {
+     "id": "c11a_0",
+     "img": "c11a",
+     "part": 0,
+     "motion": "orbit_l",
+     "start": 662.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c11a_1",
+     "img": "c11a",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 670.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c11b_0",
+     "img": "c11b",
+     "part": 0,
+     "motion": "drone",
+     "start": 678.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c11b_1",
+     "img": "c11b",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 686.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c11c_0",
+     "img": "c11c",
+     "part": 0,
+     "motion": "dolly_in",
+     "start": 694.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c11c_1",
+     "img": "c11c",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 702.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c11d_0",
+     "img": "c11d",
+     "part": 0,
+     "motion": "crane_up",
+     "start": 710.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    },
+    {
+     "id": "c11d_1",
+     "img": "c11d",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 718.4,
+     "dur": 8.0,
+     "render_dur": 8.75
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c11_0",
+      "start": 665.4,
+      "dur": 8.2,
+      "text": "Son Bizans İmparatoru, askerlerinin arasında savaşarak hayatını kaybetti. Bin yıllık imparatorluk sona ermişti."
+     },
+     {
+      "key": "c11_x0",
+      "start": 675.8,
+      "dur": 5.0,
+      "text": "Şehrin sokaklarında son direniş noktaları da birer birer düştü."
+     },
+     {
+      "key": "c11_1",
+      "start": 683.0,
+      "dur": 6.1,
+      "text": "Öğleden sonra yirmi bir yaşındaki Sultan, beyaz atının üzerinde şehre girdi."
+     },
+     {
+      "key": "c11_2",
+      "start": 691.3,
+      "dur": 7.0,
+      "text": "Doğruca Ayasofya'ya gitti. Devasa kubbenin altında durdu ve sessizce etrafına baktı."
+     },
+     {
+      "key": "c11_3",
+      "start": 700.5,
+      "dur": 5.65,
+      "text": "O günden sonra ona bir isim verildi: Fatih. Yani, Fetheden."
+     }
+    ],
+    "en": [
+     {
+      "key": "c11_0",
+      "start": 665.4,
+      "dur": 8.6,
+      "text": "The last Byzantine Emperor died fighting among his soldiers. A thousand-year empire had come to an end."
+     },
+     {
+      "key": "c11_x0",
+      "start": 676.2,
+      "dur": 5.25,
+      "text": "In the streets of the city, the last points of resistance fell one by one."
+     },
+     {
+      "key": "c11_1",
+      "start": 683.65,
+      "dur": 6.45,
+      "text": "In the afternoon the twenty-one-year-old Sultan rode into the city on his white horse."
+     },
+     {
+      "key": "c11_2",
+      "start": 692.3,
+      "dur": 8.25,
+      "text": "He went straight to Hagia Sophia. He stood beneath the vast dome and looked around in silence."
+     },
+     {
+      "key": "c11_3",
+      "start": 702.75,
+      "dur": 5.75,
+      "text": "From that day on, he was given a name: Fatih. The Conqueror."
+     }
+    ]
+   },
+   "battle": false,
+   "embers": true,
+   "booms": []
+  },
+  {
+   "id": "c12",
+   "idx": 12,
+   "start": 726.4,
+   "dur": 60,
+   "title_tr": "Yeni Bir Çağ",
+   "title_en": "A New Age",
+   "shots": [
+    {
+     "id": "c12a_0",
+     "img": "c12a",
+     "part": 0,
+     "motion": "dolly_out",
+     "start": 726.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c12a_1",
+     "img": "c12a",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 733.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c12b_0",
+     "img": "c12b",
+     "part": 0,
+     "motion": "crane_down",
+     "start": 741.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c12b_1",
+     "img": "c12b",
+     "part": 1,
+     "motion": "truck_left",
+     "start": 748.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c12c_0",
+     "img": "c12c",
+     "part": 0,
+     "motion": "truck_left",
+     "start": 756.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c12c_1",
+     "img": "c12c",
+     "part": 1,
+     "motion": "orbit_r",
+     "start": 763.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c12d_0",
+     "img": "c12d",
+     "part": 0,
+     "motion": "orbit_r",
+     "start": 771.4,
+     "dur": 7.5,
+     "render_dur": 8.25
+    },
+    {
+     "id": "c12d_1",
+     "img": "c12d",
+     "part": 1,
+     "motion": "dolly_in",
+     "start": 778.9,
+     "dur": 7.5,
+     "render_dur": 8.25
+    }
+   ],
+   "narr": {
+    "tr": [
+     {
+      "key": "c12_0",
+      "start": 729.4,
+      "dur": 6.25,
+      "text": "İstanbul, Osmanlı İmparatorluğu'nun yeni başkenti oldu ve yüzyıllar boyunca öyle kaldı."
+     },
+     {
+      "key": "c12_1",
+      "start": 737.85,
+      "dur": 5.95,
+      "text": "Pek çok tarihçiye göre bu fetih Orta Çağ'ı kapattı, Yeni Çağ'ı başlattı."
+     },
+     {
+      "key": "c12_x0",
+      "start": 746.0,
+      "dur": 6.4,
+      "text": "Fatih Sultan Mehmed şehri yeniden imar etti, farklı halklara kapılarını açtı."
+     },
+     {
+      "key": "c12_2",
+      "start": 754.6,
+      "dur": 6.2,
+      "text": "İki kıtanın buluştuğu bu şehir, bugün hâlâ dünyanın kalbinde atıyor."
+     },
+     {
+      "key": "c12_3",
+      "start": 763.0,
+      "dur": 6.25,
+      "text": "Bin dört yüz elli üç. Bir şehrin, bir imparatorluğun ve bir çağın hikâyesi."
+     }
+    ],
+    "en": [
+     {
+      "key": "c12_0",
+      "start": 729.4,
+      "dur": 6.55,
+      "text": "Istanbul became the new capital of the Ottoman Empire, and remained so for centuries."
+     },
+     {
+      "key": "c12_1",
+      "start": 738.15,
+      "dur": 6.35,
+      "text": "For many historians, this conquest closed the Middle Ages and opened the modern era."
+     },
+     {
+      "key": "c12_x0",
+      "start": 746.7,
+      "dur": 6.75,
+      "text": "Mehmed the Conqueror rebuilt the city and opened its doors to many peoples."
+     },
+     {
+      "key": "c12_2",
+      "start": 755.65,
+      "dur": 5.4,
+      "text": "Where two continents meet, this city still beats at the heart of the world."
+     },
+     {
+      "key": "c12_3",
+      "start": 763.25,
+      "dur": 6.1,
+      "text": "Fourteen fifty-three. The story of a city, an empire, and an age."
+     }
+    ]
+   },
+   "battle": false,
+   "embers": false,
+   "booms": []
+  }
+ ],
+ "total": 786.4
+}

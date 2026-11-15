@@ -1,0 +1,115 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter SemiBold,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,3.2,1.5,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.00,0:00:08.35,Sub,,0,0,0,,{\fad(120,120)}Yıl bin dört yüz elli üç. Bahar sabahı, Boğaz'ın üzerinde\Nsis var.
+Dialogue: 0,0:00:10.40,0:00:17.45,Sub,,0,0,0,,{\fad(120,120)}Sisin ardında, bin yılı aşkın süredir ayakta duran bir\Nşehir uyanıyor: Konstantinopolis.
+Dialogue: 0,0:00:19.50,0:00:24.00,Sub,,0,0,0,,{\fad(120,120)}Elli üç gün sonra bu şehir artık eskisi gibi olmayacak.
+Dialogue: 0,0:00:23.85,0:00:27.00,Sub,,0,0,0,,{\fad(120,120)}Ve dünya tarihi yeni bir sayfa açacak.
+Dialogue: 0,0:00:29.05,0:00:35.10,Sub,,0,0,0,,{\fad(120,120)}Bu, dünyanın en güçlü surlarına karşı, genç bir sultanın\Nhikâyesi.
+Dialogue: 0,0:00:51.00,0:00:58.05,Sub,,0,0,0,,{\fad(120,120)}Konstantinopolis, Roma İmparatoru Konstantin tarafından üç\Nyüz otuz yılında başkent yapıldı.
+Dialogue: 0,0:00:58.70,0:01:04.70,Sub,,0,0,0,,{\fad(120,120)}Yüzyıllar boyunca dünyanın en zengin, en kalabalık\Nşehirlerinden biri oldu.
+Dialogue: 0,0:01:05.35,0:01:12.40,Sub,,0,0,0,,{\fad(120,120)}Doğu ile Batı'nın, Asya ile Avrupa'nın buluştuğu bu\Nnoktada, ticaret yolları kesişiyordu.
+Dialogue: 0,0:01:13.05,0:01:18.70,Sub,,0,0,0,,{\fad(120,120)}Ama bin dört yüz elli üçe gelindiğinde, koca\Nimparatorluktan geriye neredeyse
+Dialogue: 0,0:01:18.55,0:01:21.05,Sub,,0,0,0,,{\fad(120,120)}yalnızca şehrin kendisi kalmıştı.
+Dialogue: 0,0:01:21.70,0:01:25.27,Sub,,0,0,0,,{\fad(120,120)}Onu koruyan şey ise efsanevi kara surlarıydı.
+Dialogue: 0,0:01:25.12,0:01:30.45,Sub,,0,0,0,,{\fad(120,120)}Üç katlı savunma hattı, binlerce yıl düşmanlarını geri\Npüskürtmüştü.
+Dialogue: 0,0:01:31.10,0:01:35.33,Sub,,0,0,0,,{\fad(120,120)}Haliç'in ağzına ise devasa bir zincir gerilmişti.
+Dialogue: 0,0:01:35.18,0:01:38.00,Sub,,0,0,0,,{\fad(120,120)}Hiçbir gemi içeri giremeyecekti.
+Dialogue: 0,0:01:38.65,0:01:42.43,Sub,,0,0,0,,{\fad(120,120)}Şehir, bin yıl boyunca defalarca kuşatıldı.
+Dialogue: 0,0:01:42.28,0:01:46.05,Sub,,0,0,0,,{\fad(120,120)}Ama surlar hiçbir zaman zorla aşılamamıştı.
+Dialogue: 0,0:01:51.40,0:01:57.15,Sub,,0,0,0,,{\fad(120,120)}Edirne'de, genç bir sultan bu şehrin hayalini kuruyordu:\Nİkinci Mehmed.
+Dialogue: 0,0:01:59.20,0:02:04.40,Sub,,0,0,0,,{\fad(120,120)}Bin dört yüz elli birde tahta çıktığında henüz on dokuz\Nyaşındaydı.
+Dialogue: 0,0:02:06.45,0:02:10.65,Sub,,0,0,0,,{\fad(120,120)}Babası İkinci Murad'dan büyük bir devlet devralmıştı.
+Dialogue: 0,0:02:10.50,0:02:13.10,Sub,,0,0,0,,{\fad(120,120)}Ama onun gözü daha büyüğündeydi.
+Dialogue: 0,0:02:15.15,0:02:21.40,Sub,,0,0,0,,{\fad(120,120)}Birçok dil biliyor, haritalar inceliyor, mühendislik ve\Nsavaş sanatı üzerine çalışıyordu.
+Dialogue: 0,0:02:23.45,0:02:27.74,Sub,,0,0,0,,{\fad(120,120)}Geceler boyunca surların planlarını çizdiği anlatılır.
+Dialogue: 0,0:02:27.59,0:02:31.35,Sub,,0,0,0,,{\fad(120,120)}Tek bir hedefi vardı: Konstantinopolis'i almak.
+Dialogue: 0,0:02:33.40,0:02:37.68,Sub,,0,0,0,,{\fad(120,120)}Avrupa'nın sarayları bu genç hükümdarı ciddiye almadı.
+Dialogue: 0,0:02:37.53,0:02:40.05,Sub,,0,0,0,,{\fad(120,120)}Çok yakında pişman olacaklardı.
+Dialogue: 0,0:02:51.40,0:02:55.05,Sub,,0,0,0,,{\fad(120,120)}İlk hamle bin dört yüz elli iki baharında geldi.
+Dialogue: 0,0:02:57.07,0:03:03.49,Sub,,0,0,0,,{\fad(120,120)}Boğaz'ın en dar noktasında, Anadolu Hisarı'nın tam\Nkarşısında, devasa bir kale
+Dialogue: 0,0:03:03.34,0:03:06.22,Sub,,0,0,0,,{\fad(120,120)}yükselmeye başladı: Rumeli Hisarı.
+Dialogue: 0,0:03:08.24,0:03:11.00,Sub,,0,0,0,,{\fad(120,120)}Binlerce işçi gece gündüz çalıştı.
+Dialogue: 0,0:03:10.85,0:03:14.14,Sub,,0,0,0,,{\fad(120,120)}Kale yaklaşık dört buçuk ayda tamamlandı.
+Dialogue: 0,0:03:16.16,0:03:20.44,Sub,,0,0,0,,{\fad(120,120)}Artık Karadeniz'den şehre yardım gelmesi çok zordu.
+Dialogue: 0,0:03:20.29,0:03:23.36,Sub,,0,0,0,,{\fad(120,120)}Halk ona bir isim verdi: Boğazkesen.
+Dialogue: 0,0:03:25.38,0:03:32.78,Sub,,0,0,0,,{\fad(120,120)}Boğaz'dan geçen gemiler artık durmak ve izin almak\Nzorundaydı. Bu bir meydan okumaydı.
+Dialogue: 0,0:03:34.80,0:03:42.05,Sub,,0,0,0,,{\fad(120,120)}Konstantinopolis'te imparator, Batı'ya mektuplar yazarak\Nyardım istedi. Ama gelen yardım çok azdı.
+Dialogue: 0,0:03:47.40,0:03:51.85,Sub,,0,0,0,,{\fad(120,120)}Sultan'ın en büyük silahı ise henüz görülmemiş bir şeydi.
+Dialogue: 0,0:03:53.90,0:03:59.40,Sub,,0,0,0,,{\fad(120,120)}Urban adında bir top dökümcüsü, Edirne'de devasa toplar\Ndöktü.
+Dialogue: 0,0:04:01.45,0:04:04.95,Sub,,0,0,0,,{\fad(120,120)}Urban önce hizmetlerini Bizans'a sunmuştu.
+Dialogue: 0,0:04:04.80,0:04:08.45,Sub,,0,0,0,,{\fad(120,120)}Ama imparator ona istediği ücreti ödeyemedi.
+Dialogue: 0,0:04:10.50,0:04:15.02,Sub,,0,0,0,,{\fad(120,120)}En büyüğü yüzlerce kiloluk taş gülleler fırlatabiliyordu.
+Dialogue: 0,0:04:14.87,0:04:19.55,Sub,,0,0,0,,{\fad(120,120)}Onu taşımak için düzinelerce öküz ve yüzlerce adam\Ngerekti.
+Dialogue: 0,0:04:21.60,0:04:25.27,Sub,,0,0,0,,{\fad(120,120)}Günde yalnızca birkaç kez ateşlenebiliyordu.
+Dialogue: 0,0:04:25.12,0:04:29.20,Sub,,0,0,0,,{\fad(120,120)}Ama her atışta yer sarsılıyor, surlar titriyordu.
+Dialogue: 0,0:04:31.25,0:04:36.15,Sub,,0,0,0,,{\fad(120,120)}Bu toplar, savaşın kurallarını sonsuza dek değiştirecekti.
+Dialogue: 0,0:04:47.40,0:04:50.17,Sub,,0,0,0,,{\fad(120,120)}Altı Nisan bin dört yüz elli üç.
+Dialogue: 0,0:04:50.02,0:04:52.70,Sub,,0,0,0,,{\fad(120,120)}Osmanlı ordusu surların önünde.
+Dialogue: 0,0:04:54.75,0:04:59.95,Sub,,0,0,0,,{\fad(120,120)}Tahminlere göre seksen binden fazla asker, ufka kadar\Nuzanan çadırlar.
+Dialogue: 0,0:05:02.00,0:05:06.20,Sub,,0,0,0,,{\fad(120,120)}Karşılarında ise yalnızca yedi bin kadar savunucu vardı.
+Dialogue: 0,0:05:08.25,0:05:14.50,Sub,,0,0,0,,{\fad(120,120)}Şehrin kara surları boyunca topçular, okçular ve piyadeler\Nmevzilerini aldı.
+Dialogue: 0,0:05:16.55,0:05:21.83,Sub,,0,0,0,,{\fad(120,120)}Onları son Bizans İmparatoru, On Birinci Konstantin\Nyönetiyordu.
+Dialogue: 0,0:05:21.68,0:05:25.35,Sub,,0,0,0,,{\fad(120,120)}Yanında Cenevizli komutan Giustiniani vardı.
+Dialogue: 0,0:05:27.40,0:05:30.35,Sub,,0,0,0,,{\fad(120,120)}Ve toplar konuşmaya başladı.
+Dialogue: 0,0:05:51.40,0:05:55.00,Sub,,0,0,0,,{\fad(120,120)}Haftalar boyunca bombardıman hiç durmadı.
+Dialogue: 0,0:05:54.85,0:05:57.60,Sub,,0,0,0,,{\fad(120,120)}Surlarda büyük gedikler açıldı.
+Dialogue: 0,0:05:59.65,0:06:06.50,Sub,,0,0,0,,{\fad(120,120)}Ama savunucular her gece yıkılan yerleri toprak, tahta ve\Ntaşla yeniden kapattı.
+Dialogue: 0,0:06:08.55,0:06:11.76,Sub,,0,0,0,,{\fad(120,120)}Yorgun savunucular uyumadan çalışıyordu.
+Dialogue: 0,0:06:11.61,0:06:15.35,Sub,,0,0,0,,{\fad(120,120)}Her sabah Osmanlı topçuları yeniden başlıyordu.
+Dialogue: 0,0:06:17.40,0:06:21.01,Sub,,0,0,0,,{\fad(120,120)}Yirmi Nisan'da denizde büyük bir çarpışma oldu.
+Dialogue: 0,0:06:20.86,0:06:25.80,Sub,,0,0,0,,{\fad(120,120)}Dört Hristiyan gemisi Osmanlı donanmasını yararak Haliç'e\Nulaştı.
+Dialogue: 0,0:06:27.85,0:06:32.80,Sub,,0,0,0,,{\fad(120,120)}Sultan öfkeliydi. Yeni ve çok cesur bir plana ihtiyacı\Nvardı.
+Dialogue: 0,0:06:34.85,0:06:38.75,Sub,,0,0,0,,{\fad(120,120)}Bu küçük zafer şehirde büyük bir umut yarattı.
+Dialogue: 0,0:06:38.60,0:06:41.20,Sub,,0,0,0,,{\fad(120,120)}Ama bu umut uzun sürmeyecekti.
+Dialogue: 0,0:06:51.40,0:06:57.20,Sub,,0,0,0,,{\fad(120,120)}Yirmi iki Nisan sabahı, Haliç'teki savunucular gözlerine\Ninanamadı.
+Dialogue: 0,0:06:59.25,0:07:03.55,Sub,,0,0,0,,{\fad(120,120)}Osmanlı gemileri tepelerin üzerinden kayarak geliyordu.
+Dialogue: 0,0:07:05.60,0:07:10.05,Sub,,0,0,0,,{\fad(120,120)}Bu, tarihin en cesur askeri manevralarından biriydi.
+Dialogue: 0,0:07:12.10,0:07:17.82,Sub,,0,0,0,,{\fad(120,120)}Gece boyunca yağlanmış kızaklar üzerinde, öküzler ve\Naskerler tarafından çekilen
+Dialogue: 0,0:07:17.67,0:07:22.00,Sub,,0,0,0,,{\fad(120,120)}gemiler, Galata'nın arkasından karadan Haliç'e\Nindirilmişti.
+Dialogue: 0,0:07:24.05,0:07:29.00,Sub,,0,0,0,,{\fad(120,120)}Zincir aşılmıştı. Şehir artık iki yandan kuşatılmıştı.
+Dialogue: 0,0:07:31.05,0:07:36.70,Sub,,0,0,0,,{\fad(120,120)}Savunucular artık Haliç tarafındaki deniz surlarını da\Nkorumak zorundaydı.
+Dialogue: 0,0:07:36.55,0:07:39.60,Sub,,0,0,0,,{\fad(120,120)}Zaten az olan askerler daha da dağıldı.
+Dialogue: 0,0:07:57.40,0:08:00.37,Sub,,0,0,0,,{\fad(120,120)}Kuşatma toprağın altında da sürüyordu.
+Dialogue: 0,0:08:00.22,0:08:04.15,Sub,,0,0,0,,{\fad(120,120)}Osmanlı lağımcıları surların altına tüneller kazdı.
+Dialogue: 0,0:08:06.20,0:08:08.69,Sub,,0,0,0,,{\fad(120,120)}Savunucular karşı tüneller açtı.
+Dialogue: 0,0:08:08.54,0:08:12.20,Sub,,0,0,0,,{\fad(120,120)}Karanlıkta, meşale ışığında çarpışmalar yaşandı.
+Dialogue: 0,0:08:14.25,0:08:19.50,Sub,,0,0,0,,{\fad(120,120)}Bazı tüneller bulunup su ile basıldı, bazıları ateşe\Nverildi.
+Dialogue: 0,0:08:21.55,0:08:26.03,Sub,,0,0,0,,{\fad(120,120)}Mayıs'ın sonlarına doğru gökyüzünde bir ay tutulması\Ngörüldü.
+Dialogue: 0,0:08:25.88,0:08:28.80,Sub,,0,0,0,,{\fad(120,120)}Şehirde pek çok kişi bunu kötüye yordu.
+Dialogue: 0,0:08:30.85,0:08:33.67,Sub,,0,0,0,,{\fad(120,120)}Kuşatma yedinci haftasına girmişti.
+Dialogue: 0,0:08:33.52,0:08:37.40,Sub,,0,0,0,,{\fad(120,120)}Her iki taraf da sonun yaklaştığını hissediyordu.
+Dialogue: 0,0:08:39.45,0:08:43.00,Sub,,0,0,0,,{\fad(120,120)}Sultan, son bir büyük hücum için emir verdi.
+Dialogue: 0,0:08:53.40,0:08:56.66,Sub,,0,0,0,,{\fad(120,120)}Yirmi dokuz Mayıs, şafaktan önce.
+Dialogue: 0,0:08:56.51,0:09:01.95,Sub,,0,0,0,,{\fad(120,120)}Davullar, borazanlar ve binlerce ses aynı anda yükseldi.
+Dialogue: 0,0:09:04.00,0:09:11.20,Sub,,0,0,0,,{\fad(120,120)}Hücum dalgalar halinde geldi. Önce ilk birlikler, sonra\NAnadolu askerleri surlara yüklendi.
+Dialogue: 0,0:09:13.25,0:09:20.10,Sub,,0,0,0,,{\fad(120,120)}Savunucular direndi. Ama sonra Giustiniani ağır yaralandı\Nve geri çekildi. Savunma sarsıldı.
+Dialogue: 0,0:09:22.15,0:09:26.65,Sub,,0,0,0,,{\fad(120,120)}Saatler boyunca surlarda ölüm kalım mücadelesi sürdü.
+Dialogue: 0,0:09:28.70,0:09:33.60,Sub,,0,0,0,,{\fad(120,120)}Tam o anda Sultan son kozunu oynadı: Yeniçeriler.
+Dialogue: 0,0:09:35.65,0:09:41.45,Sub,,0,0,0,,{\fad(120,120)}Disiplinli, sessiz ve kararlı bir şekilde gediklere doğru\Nilerlediler.
+Dialogue: 0,0:10:09.40,0:10:16.00,Sub,,0,0,0,,{\fad(120,120)}Bu kargaşanın ortasında, dev cüsseli bir yeniçeri surlara\Ntırmandı: Ulubatlı Hasan.
+Dialogue: 0,0:10:18.05,0:10:22.90,Sub,,0,0,0,,{\fad(120,120)}Oklar ve taşlar altında, sancağı burçlardan birine dikti.
+Dialogue: 0,0:10:24.95,0:10:28.55,Sub,,0,0,0,,{\fad(120,120)}Anlatılara göre Hasan oracıkta şehit düştü.
+Dialogue: 0,0:10:28.40,0:10:33.85,Sub,,0,0,0,,{\fad(120,120)}Ama sancak dalgalanıyordu, ve onu gören binlerce asker\Niçeri aktı.
+Dialogue: 0,0:10:35.90,0:10:42.05,Sub,,0,0,0,,{\fad(120,120)}Kısa süre içinde surların üzerinde birçok sancak belirdi.\NSavunma çöküyordu.
+Dialogue: 0,0:11:05.40,0:11:10.99,Sub,,0,0,0,,{\fad(120,120)}Son Bizans İmparatoru, askerlerinin arasında savaşarak\Nhayatını kaybetti.
+Dialogue: 0,0:11:10.84,0:11:13.75,Sub,,0,0,0,,{\fad(120,120)}Bin yıllık imparatorluk sona ermişti.
+Dialogue: 0,0:11:15.80,0:11:20.95,Sub,,0,0,0,,{\fad(120,120)}Şehrin sokaklarında son direniş noktaları da birer birer\Ndüştü.
+Dialogue: 0,0:11:23.00,0:11:29.25,Sub,,0,0,0,,{\fad(120,120)}Öğleden sonra yirmi bir yaşındaki Sultan, beyaz atının\Nüzerinde şehre girdi.
+Dialogue: 0,0:11:31.30,0:11:38.45,Sub,,0,0,0,,{\fad(120,120)}Doğruca Ayasofya'ya gitti. Devasa kubbenin altında durdu\Nve sessizce etrafına baktı.
+Dialogue: 0,0:11:40.50,0:11:46.30,Sub,,0,0,0,,{\fad(120,120)}O günden sonra ona bir isim verildi: Fatih. Yani,\NFetheden.
+Dialogue: 0,0:12:09.40,0:12:15.80,Sub,,0,0,0,,{\fad(120,120)}İstanbul, Osmanlı İmparatorluğu'nun yeni başkenti oldu ve\Nyüzyıllar boyunca öyle kaldı.
+Dialogue: 0,0:12:17.85,0:12:23.95,Sub,,0,0,0,,{\fad(120,120)}Pek çok tarihçiye göre bu fetih Orta Çağ'ı kapattı, Yeni\NÇağ'ı başlattı.
+Dialogue: 0,0:12:26.00,0:12:32.55,Sub,,0,0,0,,{\fad(120,120)}Fatih Sultan Mehmed şehri yeniden imar etti, farklı\Nhalklara kapılarını açtı.
+Dialogue: 0,0:12:34.60,0:12:40.95,Sub,,0,0,0,,{\fad(120,120)}İki kıtanın buluştuğu bu şehir, bugün hâlâ dünyanın\Nkalbinde atıyor.
+Dialogue: 0,0:12:43.00,0:12:49.40,Sub,,0,0,0,,{\fad(120,120)}Bin dört yüz elli üç. Bir şehrin, bir imparatorluğun ve\Nbir çağın hikâyesi.

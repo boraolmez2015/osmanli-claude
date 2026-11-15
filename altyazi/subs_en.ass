@@ -1,0 +1,115 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter SemiBold,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0.5,0,1,3.2,1.5,2,200,200,62,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.00,0:00:05.90,Sub,,0,0,0,,{\fad(120,120)}The year is fourteen fifty-three.
+Dialogue: 0,0:00:05.75,0:00:10.15,Sub,,0,0,0,,{\fad(120,120)}A spring morning, and mist lies over the Bosphorus.
+Dialogue: 0,0:00:12.20,0:00:20.15,Sub,,0,0,0,,{\fad(120,120)}Behind the mist, a city that has stood for more than a\Nthousand years is waking: Constantinople.
+Dialogue: 0,0:00:22.20,0:00:26.70,Sub,,0,0,0,,{\fad(120,120)}In fifty-three days, this city will never be the same.
+Dialogue: 0,0:00:26.55,0:00:29.85,Sub,,0,0,0,,{\fad(120,120)}And world history will turn a new page.
+Dialogue: 0,0:00:31.90,0:00:38.80,Sub,,0,0,0,,{\fad(120,120)}This is the story of a young sultan against the strongest\Nwalls in the world.
+Dialogue: 0,0:00:51.00,0:00:57.65,Sub,,0,0,0,,{\fad(120,120)}Constantinople was made a capital by the Roman Emperor\NConstantine in the year three hundred and thirty.
+Dialogue: 0,0:00:58.22,0:01:04.02,Sub,,0,0,0,,{\fad(120,120)}For centuries it was one of the richest and most populous\Ncities in the world.
+Dialogue: 0,0:01:04.58,0:01:11.38,Sub,,0,0,0,,{\fad(120,120)}Here, where East met West and Asia met Europe, the great\Ntrade routes crossed.
+Dialogue: 0,0:01:11.95,0:01:19.05,Sub,,0,0,0,,{\fad(120,120)}But by fourteen fifty-three, almost nothing remained of\Nthe great empire except the city itself.
+Dialogue: 0,0:01:19.62,0:01:23.12,Sub,,0,0,0,,{\fad(120,120)}What protected it were the legendary land walls.
+Dialogue: 0,0:01:22.97,0:01:28.37,Sub,,0,0,0,,{\fad(120,120)}A triple line of defense that had turned back enemies for\Na thousand years.
+Dialogue: 0,0:01:28.93,0:01:37.53,Sub,,0,0,0,,{\fad(120,120)}And across the mouth of the Golden Horn, a massive chain\Nwas stretched. No ship would get inside.
+Dialogue: 0,0:01:38.10,0:01:42.87,Sub,,0,0,0,,{\fad(120,120)}The city had been besieged again and again for a thousand\Nyears.
+Dialogue: 0,0:01:42.72,0:01:46.05,Sub,,0,0,0,,{\fad(120,120)}But the walls had never been taken by storm.
+Dialogue: 0,0:01:51.40,0:01:56.85,Sub,,0,0,0,,{\fad(120,120)}In Edirne, a young sultan dreamed of this city: Mehmed the\NSecond.
+Dialogue: 0,0:01:58.90,0:02:05.15,Sub,,0,0,0,,{\fad(120,120)}When he took the throne in fourteen fifty-one, he was only\Nnineteen years old.
+Dialogue: 0,0:02:07.20,0:02:11.68,Sub,,0,0,0,,{\fad(120,120)}He had inherited a great state from his father, Murad the\NSecond.
+Dialogue: 0,0:02:11.53,0:02:14.55,Sub,,0,0,0,,{\fad(120,120)}But his eyes were set on something greater.
+Dialogue: 0,0:02:16.60,0:02:23.25,Sub,,0,0,0,,{\fad(120,120)}He spoke several languages, studied maps, and devoted\Nhimself to engineering and the art of war.
+Dialogue: 0,0:02:25.30,0:02:30.58,Sub,,0,0,0,,{\fad(120,120)}It is said he spent nights drawing plans of the walls.
+Dialogue: 0,0:02:30.43,0:02:34.85,Sub,,0,0,0,,{\fad(120,120)}He had a single goal: to take Constantinople.
+Dialogue: 0,0:02:36.90,0:02:41.71,Sub,,0,0,0,,{\fad(120,120)}The courts of Europe did not take this young ruler\Nseriously.
+Dialogue: 0,0:02:41.56,0:02:44.15,Sub,,0,0,0,,{\fad(120,120)}Very soon, they would regret it.
+Dialogue: 0,0:02:51.40,0:02:56.20,Sub,,0,0,0,,{\fad(120,120)}The first move came in the spring of fourteen fifty-two.
+Dialogue: 0,0:02:57.21,0:03:03.31,Sub,,0,0,0,,{\fad(120,120)}At the narrowest point of the Bosphorus, directly across\Nfrom the Anatolian
+Dialogue: 0,0:03:03.16,0:03:07.51,Sub,,0,0,0,,{\fad(120,120)}Fortress, a huge castle began to rise: Rumeli Hisarı.
+Dialogue: 0,0:03:08.52,0:03:12.37,Sub,,0,0,0,,{\fad(120,120)}Thousands of workers labored day and night.
+Dialogue: 0,0:03:12.22,0:03:17.37,Sub,,0,0,0,,{\fad(120,120)}The fortress was finished in about four and a half months.
+Dialogue: 0,0:03:18.38,0:03:22.89,Sub,,0,0,0,,{\fad(120,120)}Now help from the Black Sea could hardly reach the city.
+Dialogue: 0,0:03:22.74,0:03:26.08,Sub,,0,0,0,,{\fad(120,120)}People gave it a name: the Throat Cutter.
+Dialogue: 0,0:03:27.09,0:03:34.39,Sub,,0,0,0,,{\fad(120,120)}Ships passing through the Bosphorus now had to stop and\Nask permission. It was a challenge.
+Dialogue: 0,0:03:35.40,0:03:42.05,Sub,,0,0,0,,{\fad(120,120)}In Constantinople, the emperor wrote letters to the West,\Nbegging for help. But very little came.
+Dialogue: 0,0:03:47.40,0:03:52.30,Sub,,0,0,0,,{\fad(120,120)}But the Sultan's greatest weapon was something never seen\Nbefore.
+Dialogue: 0,0:03:54.35,0:03:59.80,Sub,,0,0,0,,{\fad(120,120)}A cannon founder named Urban cast enormous guns in Edirne.
+Dialogue: 0,0:04:01.85,0:04:05.46,Sub,,0,0,0,,{\fad(120,120)}Urban had first offered his services to Byzantium.
+Dialogue: 0,0:04:05.31,0:04:08.50,Sub,,0,0,0,,{\fad(120,120)}But the emperor could not pay what he asked.
+Dialogue: 0,0:04:10.55,0:04:15.44,Sub,,0,0,0,,{\fad(120,120)}The largest could hurl stone balls weighing hundreds of\Nkilograms.
+Dialogue: 0,0:04:15.29,0:04:19.60,Sub,,0,0,0,,{\fad(120,120)}Dozens of oxen and hundreds of men were needed to move it.
+Dialogue: 0,0:04:21.65,0:04:25.21,Sub,,0,0,0,,{\fad(120,120)}It could fire only a few times a day.
+Dialogue: 0,0:04:25.06,0:04:30.75,Sub,,0,0,0,,{\fad(120,120)}But with every shot the ground shook and the walls\Ntrembled.
+Dialogue: 0,0:04:32.80,0:04:36.95,Sub,,0,0,0,,{\fad(120,120)}These guns would change the rules of war forever.
+Dialogue: 0,0:04:47.40,0:04:50.27,Sub,,0,0,0,,{\fad(120,120)}April sixth, fourteen fifty-three.
+Dialogue: 0,0:04:50.12,0:04:53.55,Sub,,0,0,0,,{\fad(120,120)}The Ottoman army stands before the walls.
+Dialogue: 0,0:04:55.60,0:05:02.30,Sub,,0,0,0,,{\fad(120,120)}By most estimates more than eighty thousand soldiers, and\Ntents stretching to the horizon.
+Dialogue: 0,0:05:04.35,0:05:09.15,Sub,,0,0,0,,{\fad(120,120)}Facing them were only about seven thousand defenders.
+Dialogue: 0,0:05:11.20,0:05:17.45,Sub,,0,0,0,,{\fad(120,120)}Along the land walls, gunners, archers and infantry took\Nup their positions.
+Dialogue: 0,0:05:19.50,0:05:24.58,Sub,,0,0,0,,{\fad(120,120)}They were led by the last Byzantine Emperor, Constantine\Nthe Eleventh.
+Dialogue: 0,0:05:24.43,0:05:28.25,Sub,,0,0,0,,{\fad(120,120)}At his side stood the Genoese commander Giustiniani.
+Dialogue: 0,0:05:30.30,0:05:33.40,Sub,,0,0,0,,{\fad(120,120)}And the cannons began to speak.
+Dialogue: 0,0:05:51.40,0:05:54.78,Sub,,0,0,0,,{\fad(120,120)}For weeks the bombardment never stopped.
+Dialogue: 0,0:05:54.63,0:05:57.60,Sub,,0,0,0,,{\fad(120,120)}Great breaches opened in the walls.
+Dialogue: 0,0:05:59.65,0:06:07.05,Sub,,0,0,0,,{\fad(120,120)}But every night the defenders sealed the ruined sections\Nagain with earth, timber and stone.
+Dialogue: 0,0:06:09.10,0:06:12.40,Sub,,0,0,0,,{\fad(120,120)}The exhausted defenders worked without sleep.
+Dialogue: 0,0:06:12.25,0:06:15.75,Sub,,0,0,0,,{\fad(120,120)}And every morning, the Ottoman guns began again.
+Dialogue: 0,0:06:17.80,0:06:21.63,Sub,,0,0,0,,{\fad(120,120)}On April twentieth a great battle broke out at sea.
+Dialogue: 0,0:06:21.48,0:06:27.55,Sub,,0,0,0,,{\fad(120,120)}Four Christian ships fought through the Ottoman fleet and\Nreached the Golden Horn.
+Dialogue: 0,0:06:29.60,0:06:34.85,Sub,,0,0,0,,{\fad(120,120)}The Sultan was furious. He needed a new and very bold\Nplan.
+Dialogue: 0,0:06:36.90,0:06:41.13,Sub,,0,0,0,,{\fad(120,120)}This small victory brought great hope to the city.
+Dialogue: 0,0:06:40.98,0:06:43.90,Sub,,0,0,0,,{\fad(120,120)}But that hope would not last long.
+Dialogue: 0,0:06:51.40,0:06:59.40,Sub,,0,0,0,,{\fad(120,120)}On the morning of April twenty-second, the defenders in\Nthe Golden Horn could not believe their eyes.
+Dialogue: 0,0:07:01.45,0:07:05.45,Sub,,0,0,0,,{\fad(120,120)}Ottoman ships were sliding down over the hills.
+Dialogue: 0,0:07:07.50,0:07:12.90,Sub,,0,0,0,,{\fad(120,120)}It was one of the boldest military maneuvers in history.
+Dialogue: 0,0:07:14.95,0:07:22.03,Sub,,0,0,0,,{\fad(120,120)}Through the night, on greased wooden rollers, pulled by\Noxen and soldiers, the ships
+Dialogue: 0,0:07:21.88,0:07:27.15,Sub,,0,0,0,,{\fad(120,120)}had been carried over land behind Galata into the Golden\NHorn.
+Dialogue: 0,0:07:29.20,0:07:34.80,Sub,,0,0,0,,{\fad(120,120)}The chain had been bypassed. Now the city was besieged\Nfrom two sides.
+Dialogue: 0,0:07:36.85,0:07:41.59,Sub,,0,0,0,,{\fad(120,120)}The defenders now had to guard the sea walls along the\NGolden Horn too.
+Dialogue: 0,0:07:41.44,0:07:45.15,Sub,,0,0,0,,{\fad(120,120)}Their already few soldiers were stretched even thinner.
+Dialogue: 0,0:07:57.40,0:08:00.22,Sub,,0,0,0,,{\fad(120,120)}The siege went on underground as well.
+Dialogue: 0,0:08:00.07,0:08:03.45,Sub,,0,0,0,,{\fad(120,120)}Ottoman sappers dug tunnels beneath the walls.
+Dialogue: 0,0:08:05.50,0:08:08.17,Sub,,0,0,0,,{\fad(120,120)}The defenders dug counter-tunnels.
+Dialogue: 0,0:08:08.02,0:08:11.65,Sub,,0,0,0,,{\fad(120,120)}Battles were fought in the dark, by torchlight.
+Dialogue: 0,0:08:13.70,0:08:18.40,Sub,,0,0,0,,{\fad(120,120)}Some tunnels were found and flooded, others were set on\Nfire.
+Dialogue: 0,0:08:20.45,0:08:24.33,Sub,,0,0,0,,{\fad(120,120)}Late in May, a lunar eclipse was seen in the sky.
+Dialogue: 0,0:08:24.18,0:08:27.45,Sub,,0,0,0,,{\fad(120,120)}Many in the city took it as an evil omen.
+Dialogue: 0,0:08:29.50,0:08:32.68,Sub,,0,0,0,,{\fad(120,120)}The siege had entered its seventh week.
+Dialogue: 0,0:08:32.53,0:08:35.95,Sub,,0,0,0,,{\fad(120,120)}Both sides could feel the end approaching.
+Dialogue: 0,0:08:38.00,0:08:43.10,Sub,,0,0,0,,{\fad(120,120)}The Sultan gave the order for one last great assault.
+Dialogue: 0,0:08:53.40,0:09:00.00,Sub,,0,0,0,,{\fad(120,120)}May twenty-ninth, before dawn. Drums, trumpets and\Nthousands of voices rose at once.
+Dialogue: 0,0:09:02.05,0:09:08.31,Sub,,0,0,0,,{\fad(120,120)}The assault came in waves. First the irregular troops,\Nthen the Anatolian soldiers
+Dialogue: 0,0:09:08.16,0:09:10.55,Sub,,0,0,0,,{\fad(120,120)}threw themselves at the walls.
+Dialogue: 0,0:09:12.60,0:09:21.15,Sub,,0,0,0,,{\fad(120,120)}The defenders held. But then Giustiniani was badly wounded\Nand withdrew. The defense began to waver.
+Dialogue: 0,0:09:23.20,0:09:28.20,Sub,,0,0,0,,{\fad(120,120)}For hours, a struggle of life and death raged on the\Nwalls.
+Dialogue: 0,0:09:30.25,0:09:36.15,Sub,,0,0,0,,{\fad(120,120)}At that very moment, the Sultan played his final card: the\NJanissaries.
+Dialogue: 0,0:09:38.20,0:09:43.70,Sub,,0,0,0,,{\fad(120,120)}Disciplined, silent and determined, they advanced toward\Nthe breaches.
+Dialogue: 0,0:10:09.40,0:10:17.30,Sub,,0,0,0,,{\fad(120,120)}In the middle of the chaos, a giant Janissary climbed the\Nwalls: Hasan of Ulubat.
+Dialogue: 0,0:10:19.35,0:10:24.80,Sub,,0,0,0,,{\fad(120,120)}Under arrows and stones, he planted the banner on one of\Nthe towers.
+Dialogue: 0,0:10:26.85,0:10:31.40,Sub,,0,0,0,,{\fad(120,120)}According to the stories, Hasan fell there as a martyr.
+Dialogue: 0,0:10:31.25,0:10:37.65,Sub,,0,0,0,,{\fad(120,120)}But the banner was flying, and thousands of soldiers who\Nsaw it poured inside.
+Dialogue: 0,0:10:39.70,0:10:45.45,Sub,,0,0,0,,{\fad(120,120)}Within moments, more banners appeared along the walls. The\Ndefense was collapsing.
+Dialogue: 0,0:11:05.40,0:11:10.61,Sub,,0,0,0,,{\fad(120,120)}The last Byzantine Emperor died fighting among his\Nsoldiers.
+Dialogue: 0,0:11:10.46,0:11:14.15,Sub,,0,0,0,,{\fad(120,120)}A thousand-year empire had come to an end.
+Dialogue: 0,0:11:16.20,0:11:21.60,Sub,,0,0,0,,{\fad(120,120)}In the streets of the city, the last points of resistance\Nfell one by one.
+Dialogue: 0,0:11:23.65,0:11:30.25,Sub,,0,0,0,,{\fad(120,120)}In the afternoon the twenty-one-year-old Sultan rode into\Nthe city on his white horse.
+Dialogue: 0,0:11:32.30,0:11:35.38,Sub,,0,0,0,,{\fad(120,120)}He went straight to Hagia Sophia.
+Dialogue: 0,0:11:35.23,0:11:40.70,Sub,,0,0,0,,{\fad(120,120)}He stood beneath the vast dome and looked around in\Nsilence.
+Dialogue: 0,0:11:42.75,0:11:48.65,Sub,,0,0,0,,{\fad(120,120)}From that day on, he was given a name: Fatih. The\NConqueror.
+Dialogue: 0,0:12:09.40,0:12:16.10,Sub,,0,0,0,,{\fad(120,120)}Istanbul became the new capital of the Ottoman Empire, and\Nremained so for centuries.
+Dialogue: 0,0:12:18.15,0:12:24.65,Sub,,0,0,0,,{\fad(120,120)}For many historians, this conquest closed the Middle Ages\Nand opened the modern era.
+Dialogue: 0,0:12:26.70,0:12:33.60,Sub,,0,0,0,,{\fad(120,120)}Mehmed the Conqueror rebuilt the city and opened its doors\Nto many peoples.
+Dialogue: 0,0:12:35.65,0:12:41.20,Sub,,0,0,0,,{\fad(120,120)}Where two continents meet, this city still beats at the\Nheart of the world.
+Dialogue: 0,0:12:43.25,0:12:49.50,Sub,,0,0,0,,{\fad(120,120)}Fourteen fifty-three. The story of a city, an empire, and\Nan age.
