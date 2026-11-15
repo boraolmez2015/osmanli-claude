@@ -1,0 +1,2 @@
+# osmanli-claude
+Deneme
